@@ -1,2 +1,2 @@
-# Trabalho-POO-II-JAVA-
-O trabalho pratico de Programação Orientada a Objetos, feito em java e com a IDE netbeans, tem como objetivo implementar o Campo Minado
+# Minefield in JAVA
+This is a minefield made by me in Java
